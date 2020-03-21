@@ -49,3 +49,8 @@ python -m SimpleHTTPServer &
 open http://127.0.0.1:8000/helloworld.html 
 ```
 
+## References
+
+- [https://webassembly.org/docs/modules/](https://webassembly.org/docs/modules/)
+
+
